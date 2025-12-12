@@ -12,6 +12,8 @@ app.use(
       "http://localhost:3000",
       
       // Production API
+
+      "http://103.235.105.236:5174"
    ],
    credentials : true,
    methods : ["GET" , "POST"],
